@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Vibeproof</title><desc id="desc">Do prompt ao produto que aguenta o mundo real.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d4f5a0" stroke-opacity=".065"/></pattern>
+    <linearGradient id="glow" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#273d23"/><stop offset="1" stop-color="#101913"/></linearGradient>
+  </defs>
+  <rect width="1600" height="600" fill="#101813"/>
+  <rect width="1600" height="600" fill="url(#grid)"/>
+  <circle cx="1280" cy="40" r="390" fill="#ccff7b" opacity=".025"/>
+  <rect x="70" y="60" width="200" height="35" rx="17.5" fill="#c6f77a"/>
+  <text x="91" y="83" font-family="Arial, sans-serif" font-weight="700" font-size="15" letter-spacing="1.5" fill="#142015">VIBE CODING / BR</text>
+  <text x="64" y="238" font-family="Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-8" fill="#f1f5e8">vibe<tspan fill="#c6f77a">proof.</tspan></text>
+  <path d="M72 274h160" stroke="#c6f77a" stroke-width="5"/>
+  <text x="72" y="338" font-family="Arial, sans-serif" font-size="35" font-weight="600" fill="#f1f5e8">Do prompt ao produto</text>
+  <text x="72" y="383" font-family="Arial, sans-serif" font-size="35" font-weight="600" fill="#f1f5e8">que aguenta o mundo real.</text>
+  <text x="73" y="521" font-family="Arial, sans-serif" font-size="19" fill="#aabbaa" letter-spacing=".3">GUIAS PRÁTICOS PARA SITES E APLICATIVOS</text>
+  <g transform="translate(1012 97) rotate(5 250 200)">
+    <rect x="12" y="15" width="455" height="400" rx="20" fill="#000" opacity=".25"/>
+    <rect width="455" height="400" rx="20" fill="url(#glow)" stroke="#526b4f" stroke-width="2"/>
+    <path d="M0 61h455" stroke="#526b4f" stroke-width="2"/>
+    <circle cx="28" cy="31" r="6" fill="#c6f77a"/><circle cx="49" cy="31" r="6" fill="#758d70"/><circle cx="70" cy="31" r="6" fill="#526b4f"/>
+    <text x="300" y="37" fill="#a8bca2" font-size="14" font-family="monospace">REALITY CHECK</text>
+    <text x="36" y="112" fill="#91a78e" font-size="15" font-family="monospace">// ANTES DE CHAMAR DE PRONTO</text>
+    <g font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#edf4e6">
+      <rect x="38" y="151" width="24" height="24" rx="6" fill="#c6f77a"/><path d="m44 163 5 5 8-10" fill="none" stroke="#172116" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="81" y="171">Segurança</text>
+      <rect x="38" y="211" width="24" height="24" rx="6" fill="#c6f77a"/><path d="m44 223 5 5 8-10" fill="none" stroke="#172116" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="81" y="231">Experiência</text>
+      <rect x="38" y="271" width="24" height="24" rx="6" fill="#c6f77a"/><path d="m44 283 5 5 8-10" fill="none" stroke="#172116" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="81" y="291">O que a IA esqueceu</text>
+    </g>
+    <text x="38" y="357" fill="#c6f77a" font-family="monospace" font-size="16">&gt; feito pra ir além da vibe_</text>
+  </g>
+</svg>
