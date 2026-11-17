@@ -39,7 +39,7 @@ Use para estruturar e revisar páginas de conteúdo, produto e respostas para bu
 
 - [ ] Na página Sobre ou em perfis próprios, apresentar as pessoas relevantes para o negócio, suas funções, experiência e qualificações pertinentes, com informações verdadeiras e verificáveis.
 - [ ] Avaliar fotos reais dessas pessoas e da equipe quando ajudarem o público a conhecê-las, com autorização para uso.
-- [ ] Em artigos com autoria identificada, vincular o nome à bio apropriada. Não atribuir automaticamente ao proprietário textos que ele não escreveu nem apresentar uma revisão como autoria.
+- [ ] Em artigos com autoria identificada, vincular o nome a uma bio ou página que identifique o autor, seja pessoa ou organização, conforme o caso. Não atribuir automaticamente ao proprietário textos que ele não escreveu nem apresentar uma revisão como autoria.
 
 ## Como estruturar as páginas
 
@@ -53,7 +53,7 @@ Uma estrutura aproveitável:
 4. **Evidências e exemplos úteis:** sustentar alegações relevantes com pesquisas, dados reais, fontes confiáveis ou contribuições de especialistas, conforme o assunto. Acrescentar demonstrações, capturas de tela originais, diagramas, exemplos reais e experiências próprias quando trouxerem informação útil; contextualizar dados e métodos.
 5. **Perguntas frequentes pertinentes:** responder dúvidas reais, sem transformar toda página em uma lista artificial de perguntas.
 6. **Links internos úteis:** conectar explicações, comparações, artigos relacionados e páginas de produto que ajudem o leitor a avançar.
-7. **Autoria e atualização coerentes:** nos conteúdos em que o leitor espera saber quem escreveu, identificar os autores reais e, quando relevante, os revisores técnicos, distinguindo seus papéis. Oferecer acesso a uma bio com experiência e credenciais verificáveis relacionadas ao assunto. Exibir datas precisas de publicação e atualização quando ajudarem a avaliar a informação, sem sugerir uma revisão que não aconteceu.
+7. **Autoria e atualização coerentes:** nos conteúdos em que o leitor espera saber quem escreveu, identificar os autores reais e, quando relevante, os revisores técnicos, distinguindo seus papéis. Oferecer acesso a uma bio ou página que identifique o autor; quando se tratar de uma pessoa, apresentar experiência e credenciais verificáveis relacionadas ao assunto, se pertinentes. Exibir datas precisas de publicação e atualização quando ajudarem a avaliar a informação, sem sugerir uma revisão que não aconteceu.
 8. **Próximos passos relevantes:** quando a intenção justificar, apresentar a solução e uma oferta clara já no início da página e inserir convites contextuais ao longo do conteúdo, ligados ao problema tratado. Ao final, oferecer um próximo passo simples, com benefícios e prova social verificável quando pertinentes, sem prejudicar a resposta principal nem forçar uma oferta em toda página.
 
 Listas de ferramentas e comparações podem ser úteis quando correspondem a uma decisão real do público. Manoj recomenda listas relacionadas ao produto e páginas em outros idiomas. A aplicação depende de conseguir manter informação correta, comparações honestas e tradução adequada ao público.

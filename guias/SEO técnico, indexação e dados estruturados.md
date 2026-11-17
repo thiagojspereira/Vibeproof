@@ -43,7 +43,7 @@ Para domínio e redirecionamentos consulte [Domínio, DNS, HTTPS e publicação]
 - [ ] Schema LocalBusiness configurado, se aplicável.
 - [ ] FAQ útil para o leitor pode ser incluído no conteúdo; não implementar `FAQPage` com a expectativa de resultado destacado no Google, pois esse recurso deixou de ser exibido em maio de 2026.
 - [ ] Schema Article/BlogPosting avaliado para artigos, se fizer sentido ao conteúdo; identificar no `author` os autores reais exibidos na página, como `Person` ou `Organization`, conforme o caso, e incluir nome e URL de perfil que os identifique.
-- [ ] Schema `Person` avaliado para pessoas relevantes e `ProfilePage` para páginas de perfil apropriadas. Relacionar o autor do artigo ao mesmo perfil de pessoa, quando aplicável.
+- [ ] Schema `Person` avaliado para pessoas relevantes e `ProfilePage` para páginas cujo foco principal seja uma única pessoa ou organização vinculada ao site, conforme as diretrizes do Google. Relacionar o autor do artigo ao perfil correspondente, quando aplicável.
 - [ ] Em dados de pessoas, usar apenas informações pertinentes, verdadeiras e coerentes com o conteúdo visível: função, imagem, vínculo com a empresa, experiência, formação ou filiações, quando aplicáveis. Vincular perfis externos que realmente pertençam à pessoa; não exigir Wikipedia, Wikidata ou ID no Knowledge Graph.
 - [ ] Validar a marcação e verificar sua correspondência com a página. Dados estruturados ajudam na compreensão, mas não garantem resultado destacado nem melhor posição.
 - [ ] Breadcrumbs configurados, se aplicável.
