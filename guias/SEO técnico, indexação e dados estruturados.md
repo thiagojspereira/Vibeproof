@@ -42,7 +42,10 @@ Para domínio e redirecionamentos consulte [Domínio, DNS, HTTPS e publicação]
 - [ ] Schema Organization configurado, se aplicável.
 - [ ] Schema LocalBusiness configurado, se aplicável.
 - [ ] FAQ útil para o leitor pode ser incluído no conteúdo; não implementar `FAQPage` com a expectativa de resultado destacado no Google, pois esse recurso deixou de ser exibido em maio de 2026.
-- [ ] Schema Article/BlogPosting avaliado para artigos, se fizer sentido ao conteúdo.
+- [ ] Schema Article/BlogPosting avaliado para artigos, se fizer sentido ao conteúdo; identificar no `author` os autores reais exibidos na página, como `Person` ou `Organization`, conforme o caso, e incluir nome e URL de perfil que os identifique.
+- [ ] Schema `Person` avaliado para pessoas relevantes e `ProfilePage` para páginas de perfil apropriadas. Relacionar o autor do artigo ao mesmo perfil de pessoa, quando aplicável.
+- [ ] Em dados de pessoas, usar apenas informações pertinentes, verdadeiras e coerentes com o conteúdo visível: função, imagem, vínculo com a empresa, experiência, formação ou filiações, quando aplicáveis. Vincular perfis externos que realmente pertençam à pessoa; não exigir Wikipedia, Wikidata ou ID no Knowledge Graph.
+- [ ] Validar a marcação e verificar sua correspondência com a página. Dados estruturados ajudam na compreensão, mas não garantem resultado destacado nem melhor posição.
 - [ ] Breadcrumbs configurados, se aplicável.
 - [ ] Nome, endereço e telefone consistentes, se aplicável.
 - [ ] Cidade/região trabalhada no conteúdo quando relevante.
@@ -55,6 +58,8 @@ Para domínio e redirecionamentos consulte [Domínio, DNS, HTTPS e publicação]
 - [ ] Informações de contato claras e rastreáveis.
 
 ---
+
+**Referências:** [Google: dados estruturados de artigos e autoria](https://developers.google.com/search/docs/appearance/structured-data/article), [Google: páginas de perfil](https://developers.google.com/search/docs/appearance/structured-data/profile-page) e [diretrizes gerais de dados estruturados](https://developers.google.com/search/docs/appearance/structured-data/sd-policies).
 
 ## Bing Webmaster Tools e descoberta por IA
 

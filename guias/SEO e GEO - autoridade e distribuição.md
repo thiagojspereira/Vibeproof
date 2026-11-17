@@ -27,6 +27,8 @@ Ilias Ism propõe perguntar a uma IA quais ferramentas ela recomenda, identifica
 
 Manoj acrescenta diretórios e participação em comunidades. Ross reforça menções confiáveis em terceiros. O critério comum é relevância para o público e contribuição útil, sem escolher oportunidades apenas pela métrica de autoridade do domínio.
 
+Perfis profissionais, entrevistas e participações em comunidades podem ampliar a presença pública das pessoas ligadas à empresa quando houver contribuição relevante e experiência verificável. Mantenha informações e vínculos coerentes entre os perfis, sem presumir ganho de posicionamento.
+
 **Fontes:** [Ilias Ism](https://x.com/illyism/status/2112377329284730977), [Manoj Ahirwar](https://x.com/manoj_ahi/status/2113665767065665830) e [Ross Simmonds](https://x.com/TheCoolestCool/status/2110823024362766390).
 
 ### Criar um ativo de distribuição que tenha utilidade
